@@ -1,8 +1,7 @@
-CV
-==
 About Me
+==
 
-:point_right: [Linkedin] - [Twitter]
+:point_right:  [Linkedin] - [Twitter]
 
 | [Medicode] | [Rock Paper Scissors] | [Airport] |
 |:--------------- |:-------- |:--------- |
