@@ -53,4 +53,4 @@ Medicode (see above).
 [Rock Paper Scissors]: https://github.com/MichaelSid/RockPaperSci
 [Airport]: https://github.com/MichaelSid/Air-Traffic-Control
 [Twitter]: https://twitter.com/MichaelDSidon
-[Linkedin]: uk.linkedin.com/in/michaelsidon/
+[Linkedin]: https://www.linkedin.com/in/michaelsidon
