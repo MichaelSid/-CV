@@ -35,7 +35,7 @@ Skills
 Work & Experience
 ==
 
-I am a former investment banker turned entrepreneur & web developer. I own and run two eCommerce websites (see above Linkedin profile for more details), and currently looking for my next challenge: to join and help grow a disruptive technology company.
+I am a former investment banker turned entrepreneur & web developer. I own and run two eCommerce websites (see my [Linkedin] profile for more details), and currently looking for my next challenge: to join and help grow a disruptive technology company.
 
 Education
 ==
