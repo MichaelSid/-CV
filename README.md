@@ -41,7 +41,7 @@ I am a former investment banker turned entrepreneur & web developer. I own and r
 ###### Dec 2012 – Present
 * Created and currently operating a niche e-commerce website selling wine coolers: http://winerefrigeratornow.com/
 * Created and currently operating a teak bench e-commerce website: http://www.teakyourshower.com/
-* The most successful site is the teak bench website with a ~2.5% conversion rate, around 25 sales per month, low overhead costs due to an efficient dropshipping model, and around 40% profit margin on each sale.
+* The most successful site is the teak bench website with a ~2% conversion rate, low overhead costs due to an efficient dropshipping model, and around 30% profit margin on each sale.
 
 #### Bank of America Merrill Lynch
 ###### August 2011 – November 2012
